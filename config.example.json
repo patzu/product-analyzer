@@ -1,0 +1,8 @@
+{
+  "minimum_area": 300,
+  "maximum_area": 20000,
+  "minimum_width": 15,
+  "maximum_width": 180,
+  "minimum_height": 15,
+  "maximum_height": 180
+}
